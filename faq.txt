@@ -1,0 +1,2 @@
+1. how to route the incoming audio in OSx
+2. how to send audio from the slave

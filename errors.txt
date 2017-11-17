@@ -1,2 +1,4 @@
 NetSlave : missing last data packet #slave msg
-
+JackEngine::XRun: client = sjefen-Studio-540 was not finished, state = Triggered # Master msg
+JackAudioDriver::ProcessGraphAsyncMaster: Process error
+JackAudioDriver::ProcessGraphAsyncMaster: Process error
